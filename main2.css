@@ -1,0 +1,75 @@
+
+
+.h{
+    height: 50px;
+}
+
+.col{
+    margin-top: 6rem;
+    margin-left: 1rem;
+    
+}
+
+
+
+#im{
+    margin-left:4.5rem;
+    width: 450px;
+}
+
+.nav{
+    padding-left: 8rem;
+}
+
+#log{
+    margin-left: -7rem;
+}
+#nav-link {
+    padding: 5px 40px;
+    margin-left: 8rem;
+}
+
+#me{
+    background-color:rgb(255, 107, 132);
+    border-color:rgb(253, 95, 122);
+    width: 150px;
+}
+
+.vh{
+    width: 30%;
+    height: 80%;
+}
+
+.vhh{
+    width:45% ;
+}
+
+.gg{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.ww{
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.mg{
+   width: 90%;
+   height: 115%;
+}
+
+.mt{
+    margin-left: rem;
+    margin-top: -2.6rem;
+}
+
+.uix{
+    margin-top: -2rem;
+    margin-left: 5rem;
+}
+
+.no{
+    color: blue;
+}
+
